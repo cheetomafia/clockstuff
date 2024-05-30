@@ -28,3 +28,5 @@ following this,
 so on so forth, a whole chart was written up at one point but i don't have it anymore and i'm not doing the math for this - but you get the idea
 
 the mechanical part of the clock doesn't really matter for whoever is reading this but for my own knowledge, this code is running two motors with encoders on them off an ardunio/motor controller combo - you have pictures and the thing still in your house just go look at it
+
+i do feel like the code kinda explains itself, but i may go through and comment more things if i feel like it needs it
